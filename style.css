@@ -1,0 +1,16 @@
+body, html {
+    margin:auto; border: solid 2px rgb(195, 127, 170);
+    background-color: rgb(220, 189, 217);   
+}
+
+#destaque {background-color: rgb(212, 76, 151);
+    text-align: center;
+color: rgb(17, 33, 179);
+height: 50px;
+
+footer{
+    clear: both;
+    text-align: center;
+}
+
+
